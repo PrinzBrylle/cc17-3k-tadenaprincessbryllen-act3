@@ -21,8 +21,6 @@ class MainActivity : AppCompatActivity() {
 
             rollDiceMa()
             val RolledView: TextView = findViewById(R.id.RolledView)
-            //
-
 
             //val toastMa = Toast.makeText(this,"Dice Rolled",Toast.LENGTH_LONG)
         }
